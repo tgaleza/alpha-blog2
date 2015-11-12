@@ -1,1 +1,2 @@
-This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course. 
+This is the Cloud 9 version that was copied from Nitrous after Nitrous changed its' pricing plans on 11/11/2015.
